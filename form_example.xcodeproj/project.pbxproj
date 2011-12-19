@@ -22,13 +22,13 @@
 		9C1ABF0E149E7E8800C27914 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		9C1ABF10149E7E8800C27914 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		9C1ABF12149E7E8800C27914 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
-		9C1ABF16149E7E8800C27914 /* form_example-Info.plist */ = {isa = PBXFileReference; path = "form_example-Info.plist"; sourceTree = "<group>"; };
+		9C1ABF16149E7E8800C27914 /* form_example-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "form_example-Info.plist"; sourceTree = "<group>"; };
 		9C1ABF18149E7E8800C27914 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		9C1ABF1A149E7E8800C27914 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		9C1ABF1C149E7E8800C27914 /* form_example-Prefix.pch */ = {isa = PBXFileReference; path = "form_example-Prefix.pch"; sourceTree = "<group>"; };
-		9C1ABF1D149E7E8800C27914 /* com_robertdiamondAppDelegate.h */ = {isa = PBXFileReference; path = com_robertdiamondAppDelegate.h; sourceTree = "<group>"; };
+		9C1ABF1C149E7E8800C27914 /* form_example-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "form_example-Prefix.pch"; sourceTree = "<group>"; };
+		9C1ABF1D149E7E8800C27914 /* com_robertdiamondAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = com_robertdiamondAppDelegate.h; sourceTree = "<group>"; };
 		9C1ABF1E149E7E8800C27914 /* com_robertdiamondAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = com_robertdiamondAppDelegate.m; sourceTree = "<group>"; };
-		9C1ABF20149E7E8800C27914 /* com_robertdiamondViewController.h */ = {isa = PBXFileReference; path = com_robertdiamondViewController.h; sourceTree = "<group>"; };
+		9C1ABF20149E7E8800C27914 /* com_robertdiamondViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = com_robertdiamondViewController.h; sourceTree = "<group>"; };
 		9C1ABF21149E7E8800C27914 /* com_robertdiamondViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = com_robertdiamondViewController.m; sourceTree = "<group>"; };
 		9C1ABF24149E7E8800C27914 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/com_robertdiamondViewController.xib; sourceTree = "<group>"; };
 /* End PBXFileReference section */
